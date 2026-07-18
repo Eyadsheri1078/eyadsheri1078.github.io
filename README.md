@@ -754,7 +754,7 @@ ___
 ### Syntax
 
 ```md
-![water drop]([https://via.placeholder.com/200](https://drive.google.com/drive/u/0/my-drive?q=type:image%20parent:0ALAi-7qVLR1zUk9PVA))
+![water drop]([https://drive.google.com/drive/u/0/my-drive?q=type:image%20parent:0ALAi-7qVLR1zUk9PVA](https://github.com))
 ```
 
 ### Output
@@ -768,9 +768,7 @@ ___
 ### Syntax
 
 ```md
-[![water drop]([https://via.placeholder.com/150](https://drive.google.com/drive/u/0/my-drive?q=type:image%20parent:0ALAi-7qVLR1zUk9PVA))](https://github.com)
-```
-
+[![water drop]([https://drive.google.com/drive/u/0/my-drive?q=type:image%20parent:0ALAi-7qVLR1zUk9PVA](https://github.com)
 ### Output
 
 [![Alt](https://via.placeholder.com/150)](https://github.com)
